@@ -21,10 +21,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chups348E&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chups348&layout=compact" />
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chups348E&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chups348&layout=compact)
 **chups348/chups348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
