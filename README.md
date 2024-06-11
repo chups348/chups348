@@ -29,6 +29,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Building a small drone using an Arduino Uno
-- 🌱 I’m currently learning: React, Basic Circuits
+- 🌱 I’m currently learning: Robotics
 - 📫 How to reach me: sarachupa@hotmail.com
 -->
