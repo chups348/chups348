@@ -25,10 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chups348&layout=compact&langs_count=8&hide=html,css&theme=tokyonight)
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Building a small drone using an Arduino Uno
 - 🌱 I’m currently learning: Robotics
-- 📫 How to reach me: sarachupa@hotmail.com
+- 📫 How to reach me: sarachupa99@gmail.com
 -->
